@@ -1,6 +1,7 @@
 # Kevin-s-Repository2025
 <h1 align="center">Hi 👋, I'm Prince Kevin Kamau</h1>
 <h3 align="center">🚀 Data Whisperer | Full Stack Craftsman | AI & Analytics Enthusiast</h3>
+🔍 Transforming raw data into smart, actionable insights.  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kevin-Luiz05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
